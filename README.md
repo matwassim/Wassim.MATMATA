@@ -5,7 +5,7 @@
 - **Address:** 710 Rue d'Alco, Montpellier
 - **Phone:** 06 13 44 51 67
 - **Email:** matmata.wassim@gmail.com
-- **Profile Picture:** [IMG_7047.jpg](IMG_7047.jpg)
+- **Profile Picture:** [photo.jpg](photo.jpg)
 
 ## Education
 - **Master M2:** Méthodes Informatiques appliquées à la Gestion des Entreprises, Université Paris-Dauphine, Paris (2017-2018)
